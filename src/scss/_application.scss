@@ -1,0 +1,19 @@
+.app{
+  &__wrapper{
+    position: relative;
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+  }
+
+  &__header{
+    padding-left: 22px;
+    padding-right: 22px;
+    height: 64px;
+    line-height: 64px;
+  }
+
+  &__page{
+
+  }
+}

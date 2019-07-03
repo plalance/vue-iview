@@ -1,0 +1,18 @@
+# Version File
+web/VERSION
+
+# Generated Files
+web/*.js
+web/*.html
+web/*.css
+web/*.map
+web/Images
+
+# Node Module Files
+node_modules
+
+# IDE Files
+.idea
+
+# Save / backup For Developpment files
+/*.save
