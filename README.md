@@ -5,11 +5,10 @@ Installer le projet et builder le code
     git clone <this project> folder-name
     cd folder-name
     yarn install
-    npm run build
+    yarn build
 
-Lancer un serveur de dev (serve) cf: https://www.npmjs.com/package/serve
-
-    yarn serve
+Lancer un serveur de dev avec support du Hot-Reload
+    yarn watch
 
 Visiter :
  - Local:  <a href="https://localhost:5000">https://localhost:5000</a>
