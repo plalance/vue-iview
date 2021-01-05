@@ -14,7 +14,7 @@
     "test": "tests"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "crypto-js": "^3.1.9-1",
     "debounce": "^1.2.0",
     "es6-promise": "^4.2.6",
